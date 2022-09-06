@@ -1,4 +1,4 @@
-﻿int numberA = 3;
-int NumberB = 5;
-int result = numberA + NumberB;
+﻿double numberA = 14;
+double NumberB = 5;
+double result = numberA / NumberB;
 Console.WriteLine(result);
